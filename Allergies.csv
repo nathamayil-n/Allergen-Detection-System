@@ -1,0 +1,35 @@
+﻿Allergy,Rashes,Swelling,Redness,Dizziness/Fainting,Sneezing,SoreThroat,Nausea,StomachCramps,Diarrhoea,Vomiting,Anaphylaxis,LowBP,WateryEyes,FoodsToAvoid,
+Nut Allergy,5,6,4,9,8,20,15,13,9,7,2,1,1,"almonds,walnuts,pecans,hazelnuts,pine nuts,
+lychee nuts",100
+Lactose Intolerance,0,10,8,5,0,2,28,15,32,0,0,0,0,"milk, yogurt, cream, butter, cheese (including fromage blanc), dessert creams, dairy desserts, flavored milk drinks, condensed and powdered milk",100
+Legume Allergy,13,20,7,19,11,5,8,7,5,0,3,0,2,,100
+Nightshade Allergy,6,8,10,7,9,6,25,4,7,2,3,4,9,,100
+Allium Allergy,7,9,3,5,11,10,14,15,4,6,4,4,8,,100
+Alpha-gal Syndrome,6,4,5,4,0,2,8,30,25,10,3,2,1,,100
+Aquagenic Urticaria,15,8,4,4,3,6,18,8,5,6,4,4,15,,100
+Banana Allergy,10,10,10,5,8,4,8,7,8,8,8,8,6,,100
+Beer Allergy,1,1,1,4,1,2,5,5,0,5,0,0,0,,25
+Broccoli allergy,20,10,4,3,3,2,9,6,4,3,3,3,30,,100
+Citrus Allergy,15,8,10,3,10,1,8,7,5,5,4,0,15,,91
+Corn Allergy,5,5,5,10,5,5,20,5,20,5,15,0,0,,100
+Cruciferous Allergy,13,20,7,19,11,5,8,7,5,0,3,0,2,,100
+Fish Allergy,6,8,10,7,9,6,25,4,7,2,3,4,9,,100
+Gluten Allergy,5,6,4,9,8,20,15,13,9,7,2,1,1,,100
+Histamine Allergy,7,9,3,5,11,10,14,15,4,6,4,4,8,,100
+Insulin Allergy,15,8,4,4,3,6,18,8,5,6,4,4,15,,100
+Mint Allergy,20,10,4,3,3,2,9,6,4,3,3,3,30,,100
+Ochratoxin Allergy,10,10,10,5,8,4,8,7,8,8,8,8,6,,100
+Peanut Allergy,40,20,1,1,1,1,5,1,5,10,0,0,15,,100
+Pepper Allergy,15,10,5,5,40,1,4,4,4,0,0,0,12,,100
+Potato Allergy,5,6,4,9,8,20,15,13,9,7,2,1,1,,100
+Poultry Allergy,0,10,8,5,0,2,28,15,32,0,0,0,0,,100
+Ragweed Allergy,13,20,7,19,11,5,8,7,5,0,3,0,2,,98
+Rice Allergy,6,8,10,7,9,6,25,4,7,2,3,4,9,,100
+Salicylate Allergy,7,9,3,5,11,10,14,15,4,6,4,4,8,,100
+Seed Allergy,6,4,5,4,0,2,8,30,25,10,3,2,1,,100
+Shellfish Allergy,15,8,4,4,3,6,18,8,5,6,4,4,15,,100
+Soy Allergy,10,10,10,5,8,4,8,7,8,8,8,8,6,,100
+Stone Fruit Allergy,1,1,1,4,1,2,5,5,0,5,0,0,0,,25
+Sugar Allergy / Intolerance,20,10,4,3,3,2,9,6,4,3,3,3,30,,100
+Tannin Allergy,15,8,10,3,10,1,8,7,5,5,4,0,15,,91
+Thyroid,8,4,6,2,7,9,15,15,9,5,8,4,8,,#NAME?
